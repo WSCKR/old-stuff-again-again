@@ -4,7 +4,7 @@ This is the official repository for the discord bot Bromoscope. It's written in 
 
 ## Disclaimer
 
-You cam copy this code if you want to for some reason, but just know that I don't give you permission to copy literally everything about it. If you want to copy the code, then you at least need to know how it works, so you can change certain aspects of it so it isn't just a Bromoscope clone.
+You can copy this code if you want to for some reason, but just know that I don't give you permission to copy literally everything about it. If you want to copy the code, then you at least need to know how it works, so you can change certain aspects of it so it isn't just a Bromoscope clone.
 
 ## How to use
 
