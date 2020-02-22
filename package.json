@@ -1,0 +1,25 @@
+{
+  "name": "bottest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "caterpillar": "^4.0.0",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "log-timestamp": "^0.3.0",
+    "log4js": "^6.1.1",
+    "mathjs": "^6.6.0",
+    "simple-node-logger": "^18.12.24",
+    "util": "^0.12.1",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
