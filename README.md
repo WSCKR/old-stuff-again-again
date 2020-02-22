@@ -8,7 +8,7 @@ You cam copy this code if you want to for some reason, but just know that I don'
 
 ## How to use
 
-In order to run the bot, all you need to do is open command prompt on Windows, change the directory so you can use the files using the command `cd [Directory]`, and then start the bot using `node bot.js`. Make sure you replace the token in the config.json file for your bot to connect.
+In order to run the bot, all you need to do is open command prompt on Windows, change the directory so you can use the files using the command `cd [Directory]`, and then start the bot using `node bot.js`. Make sure you replace the token in the config.json file for your bot to connect. Just note, the bot logs all messages it can read in the textlog.log file and in the console so I can see when people try to talk to me through the bot (as that is a feature I included).
 
 ## Special thanks
 
