@@ -16,7 +16,7 @@ const dmid = new Discord.RichEmbed()
 
 const changelog = new Discord.RichEmbed()
 	.setColor('#ff0000')
-	.setAuthor('Whisker#6666', 'https://cdn.discordapp.com/attachments/544256245868134410/675434782808735800/Screenshot_2019-08-02-15-00-002.png')
+	.setAuthor('Whisker#6666', 'https://cdn.discordapp.com/attachments/658921324122472448/681001842670567461/Screenshot_2019-08-02-15-00-002.png')
 	.setTitle('v2.2.0')
 	.setDescription('Kick & ban commands have been added for moderators.')
 	.setFooter('February 16, 2020 @ 16:08 EST')
