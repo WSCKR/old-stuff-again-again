@@ -1,4 +1,6 @@
 const Discord = require('discord.js')
+const WebSocket = require('ws');
+const ws = new WebSocket('wss://gateway.discord.gg/?v=6&encoding=json');
 const client = new Discord.Client()
 const config = require("./config.json")
 var fs = require('fs');
@@ -179,6 +181,11 @@ client.on("message", async message => {
 	catch {
 		console.error('');
 	}
+})
+
+//error handler
+client.on('error', async => {
+	console.log('<connection failed - retrying')
 })
 
 client.login(config.token)
