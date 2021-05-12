@@ -12,7 +12,8 @@ In order to run the bot, all you need to do is open command prompt on Windows, c
 
 ## Special thanks
 
-People will be added here soon.
+DUDEbehindDUDE
+More people could be added here soon.
 
 ## Links
 
